@@ -1,0 +1,1 @@
+apt update downloads and updates the list of available packages from the internet without installing or upgrading any software. On the other hand, apt upgrade installs the newer versions of the packages that are already installed on your system. You must always run the update command first so the server has the latest list of available versions.
